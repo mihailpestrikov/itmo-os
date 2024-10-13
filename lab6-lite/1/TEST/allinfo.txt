@@ -1,0 +1,94 @@
+Description                                     FreeSpace     Name  Size          
+Локальный несъемный диск  297350164480  C:    511819378688  
+
+
+FreePhysicalMemory=7752260
+TotalVisibleMemorySize=15406024
+
+
+
+Host Name:                 DESKTOP-LROQHUG
+OS Name:                   Майкрософт Windows 10 Домашняя
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          N/A
+Registered Organization:   N/A
+Product ID:                00326-10000-00000-AA750
+Original Install Date:     05.11.2022, 16:59:06
+System Boot Time:          24.05.2024, 15:26:04
+System Manufacturer:       TIMI
+System Model:              Redmi Book Pro 14 2022
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 25 Model 68 Stepping 1 AuthenticAMD ~3201 Mhz
+BIOS Version:              TIMI RMARB4B0P0C0C, 24.08.2022
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             ru;Russian
+Input Locale:              ru;Russian
+Time Zone:                 (UTC+03:00) Moscow, St. Petersburg
+Total Physical Memory:     15 045 MB
+Available Physical Memory: 7 484 MB
+Virtual Memory: Max Size:  18 629 MB
+Virtual Memory: Available: 8 999 MB
+Virtual Memory: In Use:    9 630 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-LROQHUG
+Hotfix(s):                 27 Hotfix(s) Installed.
+                           [01]: KB5037587
+                           [02]: KB5030841
+                           [03]: KB5003791
+                           [04]: KB5011048
+                           [05]: KB5011069
+                           [06]: KB5012170
+                           [07]: KB5015684
+                           [08]: KB5037768
+                           [09]: KB5015895
+                           [10]: KB5016705
+                           [11]: KB5018506
+                           [12]: KB5020372
+                           [13]: KB5022924
+                           [14]: KB5023794
+                           [15]: KB5025315
+                           [16]: KB5026879
+                           [17]: KB5028380
+                           [18]: KB5029709
+                           [19]: KB5031539
+                           [20]: KB5032392
+                           [21]: KB5032907
+                           [22]: KB5034224
+                           [23]: KB5036447
+                           [24]: KB5037018
+                           [25]: KB5037240
+                           [26]: KB5005699
+                           [27]: KB5034441
+Network Card(s):           5 NIC(s) Installed.
+                           [01]: TAP-Windows Adapter V9
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: WireGuard Tunnel
+                                 Connection Name: MT-Pestrikov
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 10.0.0.25
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Сетевое подключение Bluetooth 2
+                                 Status:          Media disconnected
+                           [04]: Intel(R) Wi-Fi 6E AX210 160MHz
+                                 Connection Name: Беспроводная сеть 2
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.35
+                                 [02]: fe80::6aa1:d2d1:bf3f:2ad7
+                           [05]: Microsoft Wi-Fi Direct Virtual Adapter
+                                 Connection Name: Подключение по локальной сети* 12
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.137.1
+                                 [02]: fe80::1fec:bb10:748:7eac
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.

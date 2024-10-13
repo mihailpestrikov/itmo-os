@@ -1,0 +1,11 @@
+mkdir C:\LAB6 
+cd C:\LAB6 
+chcp 65001 
+systeminfo 
+wmic OS get FreePhysicalMemory,TotalVisibleMemorySize /Format:List 
+wmic logicaldisk get name, freespace, size, description 
+mkdir C:\LAB6\TEST 
+xcopy C:\LAB6\* C:\LAB6\TEST 
+cd C:\LAB6\TEST 
+type *.txt 
+for %i in (*.txt) do if not "%i"=="allinfo.txt" del "%i" 

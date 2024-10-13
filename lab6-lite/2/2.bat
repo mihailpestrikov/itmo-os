@@ -1,0 +1,1 @@
+forfiles /P "C:\Windows" /S /M *.* /C "cmd /c if @fsize GEQ 2097152 robocopy \"@path\" \"C:\LAB6\2\temp" /ZB" > 2.bat
